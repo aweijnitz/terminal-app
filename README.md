@@ -1,31 +1,10 @@
-# Quick Exploration of React Ink
+# Quick Exploration of Terminal Application in Node.js
 
+## Findings
+
+- Ink (react ink) is not stable. You run into errors which are (most likely) caused by caching.
 
 ## Useful links
-
-
-**Ink Intro Blog and Example**
-https://vadimdemedes.com/posts/building-rich-command-line-interfaces-with-ink-and-react/
-https://github.com/vadimdemedes/ink/blob/master/examples/counter/index.js
-
-**Make ES6 modules work in node**
-https://www.npmjs.com/package/esm
-
-**Useful Packages**
-https://github.com/vadimdemedes/ink/tree/4403cd5577844cab84e361b14be64f03a981a90f#api
-
-https://github.com/vadimdemedes/ink-spinner
-
-https://github.com/vadimdemedes/ink-select-input
-
-https://github.com/sindresorhus/ink-gradient
-
-https://github.com/sindresorhus/ink-big-text
-
-https://github.com/kevva/ink-image
-
-**The Yoga Layout Engine**
-https://yogalayout.com
 
 **Image Conversion**
 https://www.npmjs.com/package/img2ascii
