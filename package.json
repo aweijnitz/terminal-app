@@ -3,17 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "module": "src/app.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "esm": "^3.2.25",
-    "import-jsx": "^3.0.0",
-    "ink": "^2.5.0",
-    "react": "^16.10.2"
   }
 }
