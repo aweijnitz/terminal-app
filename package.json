@@ -4,10 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node --inspect ./src/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "blessed": "^0.1.81",
+    "image-to-ascii": "^3.0.12"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
   }
 }
